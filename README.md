@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @martinarici
+- 👀 I’m interested in data analysis
+- 🌱 I’m currently learning SQL
+- 📫 How to reach me on my LinkedIn
